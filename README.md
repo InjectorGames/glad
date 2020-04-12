@@ -1,1 +1,1 @@
-Generated GLAD CMake library with https://github.com/Dav1dde/glad
+Generated GLAD C++ debug library using https://github.com/Dav1dde/glad
