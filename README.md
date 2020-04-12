@@ -1,2 +1,1 @@
-# glad
-Generated GLAD CMake library.
+Generated GLAD CMake library with https://github.com/Dav1dde/glad
